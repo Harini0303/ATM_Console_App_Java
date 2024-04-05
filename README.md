@@ -18,3 +18,5 @@ If choosing Customer, enter the PIN to perform operations on the account.
 <h2>Requirements:</h2>
 Java Development Kit (JDK)<br>
 IDE or command-line compiler for Java
+
+<img src
