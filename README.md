@@ -19,4 +19,6 @@ If choosing Customer, enter the PIN to perform operations on the account.
 Java Development Kit (JDK)<br>
 IDE or command-line compiler for Java
 
-<img src
+<img src="Screenshots/1.png">
+<br>
+<img src="Screenshots/2.png">
