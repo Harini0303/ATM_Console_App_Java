@@ -5,7 +5,7 @@
 This repository contains a simple ATM console application implemented in Java. The application allows users to perform various banking operations such as withdrawal, deposit, PIN change, and bank management.
 
 <h2>Features:</h2>
-<b>Admin Module:</b>cAllows management of the bank amount by updating it.<br>
+<b>Admin Module:</b>Allows management of the bank amount by updating it.<br>
 <b>Customer Module:</b> Enables customers to change their PIN, withdraw money, and deposit money into their accounts.<br>
 <b>Bank Module:</b> Maintains the total bank amount and provides access to admin and customer functionalities.
 
